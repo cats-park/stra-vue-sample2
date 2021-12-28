@@ -1,0 +1,1 @@
+# stra-vue-sample2
