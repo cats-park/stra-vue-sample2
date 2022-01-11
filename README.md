@@ -4,7 +4,7 @@
 ## 概要
 
 以下のコードの写経
-https://github.com/hazarbelge/vuejs-the-moviedb-spa
+https://github.com/bondrogeen/vue_calendar
 
 ## gitの更新について
 
